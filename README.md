@@ -1,2 +1,2 @@
-Recla_Schudling_System_for_Dental_Clinic_Appointment_Group3 
-This is School Purposes only
+# recla_Scheduling_System_for_Dental_Clinic_Appointment_group_3
+This is for School Purposes only
